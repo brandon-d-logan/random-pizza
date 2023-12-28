@@ -1,5 +1,7 @@
 # Random Avalanche Pizza Script
-Having trouble choosing an Avalanche Pizza? Use my random pizza selection script for Avalanche Pizza (https://order.toasttab.com/online/avalanche-pizza#!/) in Athens, OH. Just click the big red button and one of the signature pizzas will randomly be highlighted and scrolled-to and you can do the rest from there.
+Having trouble choosing an Avalanche Pizza? Use my random pizza selection script for Avalanche Pizza (https://order.toasttab.com/online/avalanche-pizza#!/) in Athens, OH. 
+
+Just execute the script (copy/paste it into your Dev Console OR save the bookmarklet version into a bookmark and click it) and click the big red button! One of the signature pizzas will randomly be highlighted and scrolled-to and you can do the rest from there.
 
 # Background
 Avalanche Pizza has so many amazing combinations, I got tired of having to make a decision when I ordered pizza. I wrote this script to easily make the choice a little less daunting, and if you don't like what gets picked, just run it again.
